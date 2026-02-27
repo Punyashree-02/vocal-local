@@ -31,13 +31,17 @@ Customers can browse, search, and purchase locally made products easily through 
 
   💻 **Frontend**
     --React.js
+    
     --Bootstrap
+    
     --Axios
     
   🖥️ **Backend**
     --Node.js
+    
     --Express.js
     
 🗄️ **Database**
     --MongoDB
+    
     --Mongoose
